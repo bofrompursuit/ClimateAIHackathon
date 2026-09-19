@@ -1,0 +1,162 @@
+[
+  {
+    "item_id": "TB-1001",
+    "cleanout_bag_id": "TU-BAG-9821",
+    "category": "Denim",
+    "donor_state": "CA",
+    "weight_grams": 630,
+    "disposition": "LISTED_RESALE",
+    "timestamp": "2026-09-19T13:00:00.000Z",
+    "evidence_id": "RS-20301"
+  },
+  {
+    "item_id": "TB-1002",
+    "cleanout_bag_id": "TU-BAG-9821",
+    "category": "Outerwear",
+    "donor_state": "CA",
+    "weight_grams": null,
+    "disposition": "REPAIRED",
+    "timestamp": "2026-09-19T13:02:00.000Z",
+    "evidence_id": "RP-20302"
+  },
+  {
+    "item_id": "TB-1003",
+    "cleanout_bag_id": "TU-BAG-9822",
+    "category": "Knitwear",
+    "donor_state": "TX",
+    "weight_grams": 345,
+    "disposition": "LISTED_RESALE",
+    "timestamp": "2026-09-19T13:04:00.000Z",
+    "evidence_id": "RS-20303"
+  },
+  {
+    "item_id": "TB-1004",
+    "cleanout_bag_id": "TU-BAG-9822",
+    "category": "Tops",
+    "donor_state": "CA",
+    "weight_grams": 185,
+    "disposition": "DOWN_CYCLED_SHRED",
+    "timestamp": "2026-09-19T13:06:00.000Z",
+    "evidence_id": ""
+  },
+  {
+    "item_id": "TB-1005",
+    "cleanout_bag_id": "TU-BAG-9823",
+    "category": "Accessories",
+    "donor_state": "CA",
+    "weight_grams": 105,
+    "disposition": "LISTED_RESALE",
+    "timestamp": "2026-09-19T13:08:00.000Z",
+    "evidence_id": "RS-20305"
+  },
+  {
+    "item_id": "TB-1006",
+    "cleanout_bag_id": "TU-BAG-9823",
+    "category": "Denim",
+    "donor_state": "NV",
+    "weight_grams": 680,
+    "disposition": "REPAIRED",
+    "timestamp": "2026-09-19T13:10:00.000Z",
+    "evidence_id": "RP-20306"
+  },
+  {
+    "item_id": "TB-1007",
+    "cleanout_bag_id": "TU-BAG-9824",
+    "category": "Outerwear",
+    "donor_state": "CA",
+    "weight_grams": 930,
+    "disposition": "LISTED_RESALE",
+    "timestamp": "2026-09-19T13:12:00.000Z",
+    "evidence_id": "RS-20307"
+  },
+  {
+    "item_id": "TB-1008",
+    "cleanout_bag_id": "TU-BAG-9824",
+    "category": "Tops",
+    "donor_state": "CA",
+    "weight_grams": null,
+    "disposition": "REPAIRED",
+    "timestamp": "2026-09-19T13:14:00.000Z",
+    "evidence_id": "RP-20308"
+  },
+  {
+    "item_id": "TB-1009",
+    "cleanout_bag_id": "TU-BAG-9825",
+    "category": "Knitwear",
+    "donor_state": "CA",
+    "weight_grams": 360,
+    "disposition": "UNVERIFIED_EXPORT",
+    "timestamp": "2026-09-19T13:16:00.000Z",
+    "evidence_id": ""
+  },
+  {
+    "item_id": "TB-1010",
+    "cleanout_bag_id": "TU-BAG-9825",
+    "category": "Denim",
+    "donor_state": "CA",
+    "weight_grams": 645,
+    "disposition": "LANDFILL",
+    "timestamp": "2026-09-19T13:18:00.000Z",
+    "evidence_id": ""
+  },
+  {
+    "item_id": "TB-1011",
+    "cleanout_bag_id": "TU-BAG-9826",
+    "category": "Accessories",
+    "donor_state": "OR",
+    "weight_grams": 115,
+    "disposition": "LISTED_RESALE",
+    "timestamp": "2026-09-19T13:20:00.000Z",
+    "evidence_id": "RS-20311"
+  },
+  {
+    "item_id": "TB-1012",
+    "cleanout_bag_id": "TU-BAG-9826",
+    "category": "Outerwear",
+    "donor_state": "CA",
+    "weight_grams": 875,
+    "disposition": "REPAIRED",
+    "timestamp": "2026-09-19T13:22:00.000Z",
+    "evidence_id": "RP-20312"
+  },
+  {
+    "item_id": "TB-1013",
+    "cleanout_bag_id": "TU-BAG-9827",
+    "category": "Tops",
+    "donor_state": "CA",
+    "weight_grams": 175,
+    "disposition": "LISTED_RESALE",
+    "timestamp": "2026-09-19T13:24:00.000Z",
+    "evidence_id": "RS-20313"
+  },
+  {
+    "item_id": "TB-1014",
+    "cleanout_bag_id": "TU-BAG-9827",
+    "category": "Denim",
+    "donor_state": "",
+    "weight_grams": 610,
+    "disposition": "LISTED_RESALE",
+    "timestamp": "2026-09-19T13:26:00.000Z",
+    "evidence_id": "RS-20314"
+  },
+  {
+    "item_id": "TB-1015",
+    "cleanout_bag_id": "TU-BAG-9828",
+    "category": "Knitwear",
+    "donor_state": "CA",
+    "weight_grams": null,
+    "disposition": "LISTED_RESALE",
+    "timestamp": "2026-09-19T13:28:00.000Z",
+    "evidence_id": "RS-20315"
+  },
+  {
+    "item_id": "TB-1016",
+    "cleanout_bag_id": "TU-BAG-9828",
+    "category": "Outerwear",
+    "donor_state": "CA",
+    "weight_grams": 790,
+    "disposition": "DOWN_CYCLED_SHRED",
+    "timestamp": "2026-09-19T13:30:00.000Z",
+    "evidence_id": ""
+  }
+]
