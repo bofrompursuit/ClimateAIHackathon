@@ -1,6 +1,6 @@
-# TraceBack hackathon demo
+# ThreadTrace.io hackathon demo
 
-TraceBack demonstrates how item-level apparel take-back records can be normalized, evaluated against illustrative California eligibility rules, and exported with an audit decision trail.
+ThreadTrace.io demonstrates how item-level apparel take-back records can be normalized, evaluated against illustrative California eligibility rules, and exported with an audit decision trail.
 
 ## Try the demo
 
