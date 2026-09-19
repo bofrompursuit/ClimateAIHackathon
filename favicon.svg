@@ -1,0 +1,22 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ThreadTrace.io">
+  <defs>
+    <linearGradient id="bg" x1="4" y1="4" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1b4332"/>
+      <stop offset="1" stop-color="#132a22"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="13" y1="16" x2="26" y2="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#52b788"/>
+      <stop offset="1" stop-color="#74c69d"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="2" y="2" width="44" height="44" rx="12"/></clipPath>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="1" stdDeviation="0.6" flood-color="#08150f" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <rect x="2" y="2" width="44" height="44" rx="12" fill="url(#bg)"/>
+  <rect x="2" y="2" width="44" height="20" rx="12" fill="#fff" opacity="0.05" clip-path="url(#clip)"/>
+  <g filter="url(#shadow)">
+    <path d="M13 16H35M24 16V24A7 7 0 1 1 17.9 27.5" transform="translate(0,-0.6)" stroke="#fff" stroke-opacity="0.3" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M13 16H35M24 16V24A7 7 0 1 1 17.9 27.5M17.9 27.5L14.3 26.6M17.9 27.5L16.7 24.1" stroke="url(#mark)" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
