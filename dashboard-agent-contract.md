@@ -81,3 +81,11 @@ If a field is `null` or a question is out of scope, the agent uses the fallback 
 | Agent reacts to row click | Auto-message vs. "Ask about TB-1010" chip | | |
 | Agent scope with filter active | Full batch vs. filtered view | | |
 | Modeled dollar estimates | Allowed vs. counts only | | |
+
+## Current audit-guide prototype
+
+The guide uses the full loaded batch, including when the intake table is filtered. The dashboard publishes `dashboard:context` after batch replacement, filter changes, row selection, and drawer close. The guide reads that object and does not call `evaluate()`.
+
+The published context extends the draft shape with `batch.version`, `batch.eligibleItems`, `quality` (estimated weights and missing evidence IDs on eligible records), and `reasonGroups`. Each reason group contains its count, applied grams, buffered kilograms, a weight-only illustrative credit, example item IDs, and—where applicable—California-origin verification candidates and their conditional credit. The dashboard derives these fields from the evaluated records; the guide only explains them.
+
+The guide treats `GEO_AMBIGUOUS` as reviewable when original California origin is supplied. Out-of-state donor and past nonqualifying-disposition decisions are not recoverable by relabeling. Weight-only dollar illustrations are never presented as earned credit. Evidence IDs in the synthetic sample are mock references rather than verified proof.
